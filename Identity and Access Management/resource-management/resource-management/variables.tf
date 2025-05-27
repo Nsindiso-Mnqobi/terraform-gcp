@@ -1,0 +1,3 @@
+variable "parent" {
+  type = string
+}
